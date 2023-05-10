@@ -57,8 +57,9 @@ I'm a front end developer...
   Answer the questions to gernerate a readme file
 
 ## Installation
-
+```
   npm install
+  ```
 
 ## Screenshots
 
