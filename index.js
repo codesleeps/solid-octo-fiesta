@@ -2,7 +2,7 @@
 // variables for dependancies
 let inquirer = require('inquirer');
 let fs = require('fs');
-let readmeGenerator = require('./assets/readmeGenerator') ;
+let readmeGenerator = require('./readmeGenerator') ;
 
 
 // questions
