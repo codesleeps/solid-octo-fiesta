@@ -62,7 +62,8 @@ I'm a front end developer...
 
 ## Screenshots
 
-  undefined
+  ![Screenshot 1](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/82f954c8-3608-42b1-a6f7-cee9252f2779)
+
   
 ## Learn
 
