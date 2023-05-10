@@ -41,7 +41,8 @@ I'm a front end developer...
 
 ### Logo
 
-  [logo]('/Users/codesleep/Desktop/solid-octo-fiesta-main/logo.png')
+![logo](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/7aa5e179-c605-479f-bcee-6ec2124c6e4d)
+
 
 ## Email
 
