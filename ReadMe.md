@@ -34,6 +34,9 @@ I'm a front end developer...
 
   README GENERATOR
   
+  [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
+
+  
 ## License
 
   MIT
