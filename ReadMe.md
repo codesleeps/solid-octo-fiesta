@@ -1,7 +1,8 @@
-
 # WELCOME TO MY BOOTCAMP ASSIGNMENT REPO
 
 # Hi!... I'm Code Sleep
+
+![rainbow line](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/aa0f9a5f-9c1a-49a5-a174-711b514f2226)
 
 ## About Me
 
@@ -26,6 +27,8 @@ I'm a front end developer...
 ⚡️ Fun fact...keep smiling 🤖
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
+
+![rainbow line](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/aa0f9a5f-9c1a-49a5-a174-711b514f2226)
 
 # Title
 
@@ -61,12 +64,16 @@ I'm a front end developer...
 ``` markdown
   npm install
   ```
+  
+![rainbow line](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/aa0f9a5f-9c1a-49a5-a174-711b514f2226)
 
 ## Screenshots
 
   ![Screenshot 1](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/82f954c8-3608-42b1-a6f7-cee9252f2779)
 
   [Screenshot 2](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/b8352db6-73d7-4e16-bc5a-9b92bac058a5)
+
+![rainbow line](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/aa0f9a5f-9c1a-49a5-a174-711b514f2226)
 
 ## Learn
 
@@ -85,4 +92,6 @@ I'm a front end developer...
   [GitHub](https://github.com/codesleeps/turbo-invention/blob/main/README.md)
 
   THANK YOU FOR READING THIS REPO PLEASE VISIT AGAIN FOR MY LATEST PROJECTS!
+  
+![rainbow line](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/aa0f9a5f-9c1a-49a5-a174-711b514f2226)
   
