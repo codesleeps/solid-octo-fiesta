@@ -11,11 +11,11 @@ I'm a front end developer...
 
 ![logo001](https://user-images.githubusercontent.com/125808990/236808958-deddef64-0c3e-4e5b-92ce-84166aa87fc6.png)
 
-🦾 I'm currently working on...React UI
+👩‍💻 I'm currently working on...React UI
 
 🧠 I'm currently learning..._Python_ _MongoDB_ _PHP_ _Next.JS_
 
-💵 I'm looking to collaborate on...any A.I. Projects
+👯‍♀️ I'm looking to collaborate on...any A.I. Projects
 
 🤔 I'm looking for help with...github actions
 
@@ -41,27 +41,31 @@ I'm a front end developer...
 
 ### Logo
 
-  '/Users/codesleep/Desktop/readmeGenerator/assets/IMAGES/logo.png'
+  [logo]('/Users/codesleep/Desktop/solid-octo-fiesta-main/logo.png')
 
 ## Email
 
-  <codesleep43@gmail.com>
+  <codesleep@gmail.com>
 
 ## Description
 
-  To be able to generate a readme file from user input
+  A simple application that generates a readme file from user input
 
 ## Usage
 
-  daily or else
+  Answer the questions to gernerate a readme file
 
 ## Installation
 
   npm install
 
+## Screenshots
+
+  undefined
+  
 ## Learn
 
-  automate the boring stuff
+  Automate the boring stuff
 
 ## Test
 
@@ -73,7 +77,7 @@ I'm a front end developer...
 
 ## Additional Resources
 
-   <https://www.youtube.com/watch?v=v2GKt39-LPA>, <https://github.com/codesleeps/jokesGenerator/blob/main/README.md>
+  [GitHub](https://github.com/codesleeps/turbo-invention/blob/main/README.md)
 
   THANK YOU FOR READING THIS REPO PLEASE VISIT AGAIN FOR MY LATEST PROJECTS!
   

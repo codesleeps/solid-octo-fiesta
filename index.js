@@ -46,7 +46,12 @@ let questions = [
   {
     type: 'input',
     message: 'What are the installation instructions?',
-    name: 'installation'
+    name: 'installation',
+  },
+  {
+    type: 'input',
+    message: 'Do you have any screenshot instructions?',
+    name: 'screenshot',
   },
   {
     type: 'input',

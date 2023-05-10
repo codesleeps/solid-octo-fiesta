@@ -56,6 +56,10 @@ I'm a front end developer...
   ## Installation:
   ${answers.installation}
 
+  ## Screenshots
+  ${answers.screenshots}
+  
+
   ## Learn:
   ${answers.learn}
 
