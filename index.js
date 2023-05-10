@@ -51,7 +51,7 @@ let questions = [
   {
     type: 'input',
     message: 'Do you have any screenshot instructions?',
-    name: 'screenshot',
+    name: 'screenshots',
   },
   {
     type: 'input',
