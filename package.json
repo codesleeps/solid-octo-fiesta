@@ -1,0 +1,14 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "A README Generator utilizing inquirer, fs and node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "codesleep",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
