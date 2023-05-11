@@ -1,10 +1,10 @@
-# README Generator
+# ➤ README Generator
 
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
-# Hi!......I'm Code Sleep
+# ➤ Hi!......I'm Code Sleep
 
 I'm a front end developer...
 
@@ -32,13 +32,22 @@ I'm a front end developer...
 
 ![Screenshot 2023-05-11 at 20 58 25](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/c882b31c-28ca-44e3-b8cd-932e6ef5b142)
 
-# Description
+# ➤ Description
 
 The Node.js README Generator is a command-line tool that automates the process of creating a professional and well-structured README.md file for your Node.js projects. A README.md file is essential for any open-source project as it provides valuable information about the project, its purpose, installation instructions, usage examples, and other important details.
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
-# Features
+# ➤ Screenshots
+
+![Screenshot 1](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/78be3114-89cf-4b06-a5d3-b8f51fe621ca)
+
+![Screenshot 2](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/28003cc5-479a-45f1-99ab-a3cf64e0453c)
+
+![Screenshot 3](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/d8e1956a-1b1a-4f20-8c0c-b46c55c26c66)
+
+
+# ➤ Features
 
  - Interactive CLI: The README generator utilizes an interactive command-line interface (CLI) that prompts you with questions about your project. This enables you to provide the necessary information needed to generate a comprehensive README.md file.
  - Dynamic Template: The generator uses a pre-defined README template combined with the data provided by the user to dynamically generate a README.md file. The template includes sections such as project description, installation instructions, usage examples, API documentation, contribution guidelines, and more.
@@ -49,7 +58,7 @@ The Node.js README Generator is a command-line tool that automates the process o
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
-# Usage
+# ➤ Usage
 
 To use the Node.js README Generator, follow these steps:
  
@@ -63,7 +72,7 @@ To use the Node.js README Generator, follow these steps:
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
-# Inquirer
+# ➤ Inquirer
 
 Inquirer is a powerful Node.js package that simplifies the process of creating interactive command-line interfaces (CLIs). It provides a collection of commonly used prompts and related functionalities, making it easier to gather user input, validate responses, and handle user interactions in a command-line environment.
  - **Prompts**: Inquirer offers a variety of prompt types that you can use to ask questions and gather user input. Some common prompt types include text input, password input, list selection, checkbox selection, and more. Each prompt type is represented by a function, and you can customize the prompts with options such as default values, validation rules, and filtering.
@@ -86,9 +95,41 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that a
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
 
-# Conclusion
+
+## ➤ VS Code - Extensions 💻
+
+- [x] Quokka.js 🤖
+- [x] ESLint 🔥
+- [x] Rapid API Client 🎯
+- [x] GitHub Actions 🆘
+- [x] Prettier 🔥
+- [x] Tabnine 🤖
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#vs-code-extensions)
+
+# ➤ Conclusion
 
 The Node.js README Generator simplifies the process of creating a professional README.md file for your Node.js projects. By automating the generation process, it saves you time and effort, ensuring that your project's documentation is consistent, informative, and well-structured. With its interactive CLI, customization options, and Markdown support, the generator empowers you to create README files that effectively communicate the purpose, usage, and contribution guidelines of your project.
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
+
+# Going Forward
+
+to be continued...........
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#credits)
+
+## ➤ Additional resources ⚡️
+
+- [Coding Addict](https://johnsmilga.com)
+- [Javascript Mastery](https://www.jsmastery.pro/full-stack-web-development-bootcamp) 
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Java Point](https://www.javatpoint.com/jquery-example)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/jquery-examples/)
+- [Node.js](https://nodejs.org/api/synopsis.html)
+- [Rapid API](https://rapidapi.com)
+- [GitHub Actions](https://github.com/features/actions)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#addition
 
