@@ -42,9 +42,9 @@ The Node.js README Generator is a command-line tool that automates the process o
 
 ![Screenshot 1](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/78be3114-89cf-4b06-a5d3-b8f51fe621ca)
 
-![Screenshot 2](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/28003cc5-479a-45f1-99ab-a3cf64e0453c)
+[Screenshot 2](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/28003cc5-479a-45f1-99ab-a3cf64e0453c)
 
-![Screenshot 3](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/d8e1956a-1b1a-4f20-8c0c-b46c55c26c66)
+[Screenshot 3](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/d8e1956a-1b1a-4f20-8c0c-b46c55c26c66)
 
 
 # ➤ Features
@@ -131,5 +131,5 @@ to be continued...........
 - [Rapid API](https://rapidapi.com)
 - [GitHub Actions](https://github.com/features/actions)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#addition
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
