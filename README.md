@@ -105,7 +105,7 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that a
 - [x] Prettier 🔥
 - [x] Tabnine 🤖
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#vs-code-extensions)
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
 # ➤ Conclusion
 
@@ -117,8 +117,7 @@ The Node.js README Generator simplifies the process of creating a professional R
 
 to be continued...........
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#credits)
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
 ## ➤ Additional resources ⚡️
 
@@ -130,4 +129,6 @@ to be continued...........
 - [Node.js](https://nodejs.org/api/synopsis.html)
 - [Rapid API](https://rapidapi.com)
 - [GitHub Actions](https://github.com/features/actions)
+
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
