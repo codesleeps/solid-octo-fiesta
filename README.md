@@ -131,5 +131,3 @@ to be continued...........
 - [Rapid API](https://rapidapi.com)
 - [GitHub Actions](https://github.com/features/actions)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-
