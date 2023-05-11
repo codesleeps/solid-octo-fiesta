@@ -1,8 +1,8 @@
 // npm install --save inquirer@^8.0.0
-// variables for dependancies
+// declare dependancies
 let inquirer = require('inquirer');
 let fs = require('fs');
-let readmeGenerator = require('./readmeGenerator') ;
+let readmeGenerator = require('./assets/readmeGenerator') ;
 
 
 // questions
@@ -46,12 +46,7 @@ let questions = [
   {
     type: 'input',
     message: 'What are the installation instructions?',
-    name: 'installation',
-  },
-  {
-    type: 'input',
-    message: 'Do you have any screenshot instructions?',
-    name: 'screenshots',
+    name: 'installation'
   },
   {
     type: 'input',
@@ -80,7 +75,7 @@ let questions = [
 inquirer.prompt(questions).then(function(response) {
   console.log(response);
   
-   let content = readmeGenerator(response);
+   var content = readmeGenerator(response);
    console.log(content);
     fs.writeFile("./ReadMe.md", content, function(err){
         if (err) throw err
