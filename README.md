@@ -78,13 +78,12 @@ Inquirer is widely used in Node.js applications for various purposes, including 
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
-# Node.js
+## ➤ Node.js 🔥
+
+Node.js is an open-source, cross-platform, JavaScript runtime environment that allows developers to run JavaScript code outside of a web browser. It is built on top of the Google V8 JavaScript engine and provides an event-driven, non-blocking I/O model that makes it lightweight and efficient for building scalable network applications. With Node.js, developers can use JavaScript on both the front-end and the back-end of web applications, making it a popular choice for full-stack development. Node.js has a vast ecosystem of modules and packages available through npm (Node Package Manager), making it easy to add functionality and extend its capabilities. Node.js is widely used for building web servers, command-line tools, desktop applications, and more.
 
 
-
-
-
-
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
 
 # Conclusion
