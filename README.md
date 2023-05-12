@@ -41,7 +41,7 @@ The Node.js README Generator is a command-line tool that automates the process o
 
 ## Lessons Learned  🎓
 
-to be continued..........
+Automate the boring stuff.....
 
 ## ➤ Screenshots 📸
 
