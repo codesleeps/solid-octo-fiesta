@@ -28,48 +28,68 @@ I'm a front end developer...
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
 # Title
-
-  NODE README GENERATOR
   
 ## License
 
   MIT
 
 ## Username
-
-  CODESLEEP
-
+  
 ### Logo
   
 ## Email
-
-  <codesleep43@gmail.com>
-
+  
 ## Description
-
-  A simple readme generator that creates readme from the user's input
-
-## Usage
-
-  Answer the questions and a readme file will be generated
-
-## Installation
-
-  npm install
-
+  
 ## Learn
-
-  automate the boring stuff
-
+  
+## Screenshots
+  
+## Features
+  
+## Usage
+  
+## Installation
+  
+## Optimizations
+  
+## Inquirer
+  
+## Node
+  
+## Package json
+  
 ## Test
+  
+## API
+  
+## Environment variables
+  
+## Color Reference
+  
+## Trademaeks
+  
+## Conclusions
+  
+## Tech Stack
+  
+## VSCode Extensions
 
-  none
+  Prettier 🔥
 
+## Authors
+  
+## Going Forward
+  
+## FAQ
+  
+## Feedback
+  
 ## Contributing
-
-  none
-
+  
 ## Additional Resources
+  
+## Support
   
   THANK YOU FOR READING THIS REPO PLEASE VISIT AGAIN FOR MY LATEST PROJECTS!
   

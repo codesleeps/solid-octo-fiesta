@@ -29,8 +29,6 @@ I'm a front end developer...
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
-<img src='./assets/IMAGES/fire.png' alt='alt text' title='fire line' height='100%' width='50%'>
-
 
   # Title:
   ${answers.title}
@@ -50,23 +48,77 @@ I'm a front end developer...
   ## Description:
   ${answers.description}
 
+  ## Learn:
+  ${answers.learn}
+
+  ## Screenshots:
+  ${answers.screenshots}
+
+  ## Features:
+  ${answers.features}
+  
   ## Usage:
   ${answers.usage}
 
   ## Installation:
   ${answers.installation}
 
-  ## Learn:
-  ${answers.learn}
+  ## Optimizations:
+  ${answers.optimizations}
+
+  ## Inquirer:
+  ${answers.inquirer}
+
+  ## Node:
+  ${answers.nodejs}
+
+  ## Package json:
+  ${answers.packagejson}
 
   ## Test:
   ${answers.test}
+
+  ## API
+  ${answers.api}
+
+  ## Environment variables:
+  ${answers.environment}
+
+  ## Color Reference:
+  ${answers.color}
+
+  ## Trademaeks:
+  ${answers.trademarks}
+
+  ## Conclusions:
+  ${answers.conclusions}
+
+  ## Tech Stack:
+  ${answers.tech}
+
+  ## VSCode Extensions:
+  ${answers.vscode}
+
+  ## Authors:
+  ${answers.authors}
+
+  ## Going Forward:
+  ${answers.goingforward}
+
+  ## FAQ:
+  ${answers.faq}
+
+  ## Feedback:
+  ${answers.feedback}
 
   ## Contributing:
   ${answers.contributing}
 
   ## Additional Resources:
   ${answers.resources}
+
+  ## Support:
+  ${answers.support}
 
   THANK YOU FOR READING THIS REPO PLEASE VISIT AGAIN FOR MY LATEST PROJECTS!
   `;
