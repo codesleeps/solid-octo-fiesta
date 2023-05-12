@@ -73,6 +73,14 @@ To use the Node.js README Generator, follow these steps:
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
+
+## ➤ Optimizations 🏎️
+
+What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
+
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
+
+
 ## ➤ Inquirer
 
 Inquirer is a powerful Node.js package that simplifies the process of creating interactive command-line interfaces (CLIs). It provides a collection of commonly used prompts and related functionalities, making it easier to gather user input, validate responses, and handle user interactions in a command-line environment.
@@ -115,6 +123,67 @@ Overall, the package.json file is a fundamental component of a JavaScript projec
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
+## ➤ Running Tests 🧪
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
+
+
+## ➤ API Reference 🤖
+
+#### Get all items
+
+```http
+  GET /api/items
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | **Required**. Your API key |
+
+#### Get item
+
+```http
+  GET /api/items/${id}
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Required**. Id of item to fetch |
+
+#### add(num1, num2)
+
+Takes two numbers and returns the sum.
+
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
+
+## ➤ Environment Variables 📡
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+
+`ANOTHER_API_KEY`
+
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
+
+
+
+## ➤ Color Reference  ⚫️ 🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚪️
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
+
 ## ➤ Conclusion
 
 The Node.js README Generator simplifies the process of creating a professional README.md file for your Node.js projects. By automating the generation process, it saves you time and effort, ensuring that your project's documentation is consistent, informative, and well-structured. With its interactive CLI, customization options, and Markdown support, the generator empowers you to create README files that effectively communicate the purpose, usage, and contribution guidelines of your project.
@@ -138,6 +207,22 @@ to be continued...........
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
+## ➤ FAQ ⁉️
+
+#### Question 1
+
+Answer 1
+
+#### Question 2
+
+Answer 2
+
+## ➤ Feedback 
+
+If you have any feedback, please reach out to us at wake@late.com
+
+![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
+
 ## ➤ Additional resources ⚡️
 
 - [Coding Addict](https://johnsmilga.com)
@@ -150,4 +235,8 @@ to be continued...........
 - [GitHub Actions](https://github.com/features/actions)
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
+
+## ➤ Support 💻 📲 ☎️
+
+For support, email fake@fake.com or join our Slack channel.
 
