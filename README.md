@@ -83,7 +83,7 @@ To use the Node.js README Generator, follow these steps:
 
 **Interactive CLI**: The README generator utilizes an interactive command-line interface (CLI) that prompts you with questions about your project. This enables you to provide the necessary information needed to generate a comprehensive README.md file.
 
-88Dynamic Template**: The generator uses a pre-defined README template combined with the data provided by the user to dynamically generate a README.md file. The template includes sections such as project description, installation instructions, usage examples, API documentation, contribution guidelines, and more.
+**Dynamic Template**: The generator uses a pre-defined README template combined with the data provided by the user to dynamically generate a README.md file. The template includes sections such as project description, installation instructions, usage examples, API documentation, contribution guidelines, and more.
 
 **Customizability**: The generator allows you to customize various aspects of the README file. You can choose which sections to include or exclude based on your project's requirements. Additionally, you can modify the order of sections to ensure that the README provides a clear and logical flow of information.
 
@@ -153,7 +153,14 @@ The Node.js README Generator simplifies the process of creating a professional R
 
 ## Additional Resources
 
-  [GitHub](https://github.com/codesleeps/turbo-invention/blob/main/README.md)
+- [GitHub](https://github.com/codesleeps/turbo-invention/blob/main/README.md) 
+- [Coding Addict](https://johnsmilga.com)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Java Point](https://www.javatpoint.com/jquery-example)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/jquery-examples/)
+- [Node.js](https://nodejs.org/api/synopsis.html)
+- [Rapid API](https://rapidapi.com)
+- [GitHub Actions](https://github.com/features/actions)
 
   THANK YOU FOR READING THIS REPO PLEASE VISIT AGAIN FOR MY LATEST PROJECTS!
   
