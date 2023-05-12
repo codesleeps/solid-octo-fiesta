@@ -56,7 +56,7 @@ I'm a front end developer...
 
 ## Description
 
-  A simple application that generates a readme file from user input
+  A simple application that generates a readme file from the user's input
 
 ## Usage
 
