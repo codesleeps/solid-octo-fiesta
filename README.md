@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
 # ➤ Hi!......I'm Code Sleep
@@ -26,7 +28,6 @@ I'm a front end developer...
 
 ⚡️ Fun fact...keep smiling 🤖
 
-![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
