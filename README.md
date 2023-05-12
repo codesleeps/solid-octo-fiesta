@@ -33,13 +33,17 @@ I'm a front end developer...
 
 ![Screenshot 2023-05-11 at 20 58 25](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/c882b31c-28ca-44e3-b8cd-932e6ef5b142)
 
-## ➤ Description
+## ➤ Description 👀
 
 The Node.js README Generator is a command-line tool that automates the process of creating a professional and well-structured README.md file for your Node.js projects. A README.md file is essential for any open-source project as it provides valuable information about the project, its purpose, installation instructions, usage examples, and other important details.
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
-## ➤ Screenshots
+## Lessons Learned  🎓
+
+to be continued..........
+
+## ➤ Screenshots 📸
 
 [Screenshot 1](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/78be3114-89cf-4b06-a5d3-b8f51fe621ca)
 
@@ -48,7 +52,7 @@ The Node.js README Generator is a command-line tool that automates the process o
 [Screenshot 3](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/d8e1956a-1b1a-4f20-8c0c-b46c55c26c66)
 
 
-## ➤ Features
+## ➤ Features ✅
 
  - Interactive CLI: The README generator utilizes an interactive command-line interface (CLI) that prompts you with questions about your project. This enables you to provide the necessary information needed to generate a comprehensive README.md file.
  - Dynamic Template: The generator uses a pre-defined README template combined with the data provided by the user to dynamically generate a README.md file. The template includes sections such as project description, installation instructions, usage examples, API documentation, contribution guidelines, and more.
@@ -59,7 +63,7 @@ The Node.js README Generator is a command-line tool that automates the process o
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
-## ➤ Usage
+## ➤ Usage ✅
 
 To use the Node.js README Generator, follow these steps:
  
@@ -81,7 +85,7 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
 
-## ➤ Inquirer
+## ➤ Inquirer 🦾
 
 Inquirer is a powerful Node.js package that simplifies the process of creating interactive command-line interfaces (CLIs). It provides a collection of commonly used prompts and related functionalities, making it easier to gather user input, validate responses, and handle user interactions in a command-line environment.
  - **Prompts**: Inquirer offers a variety of prompt types that you can use to ask questions and gather user input. Some common prompt types include text input, password input, list selection, checkbox selection, and more. Each prompt type is represented by a function, and you can customize the prompts with options such as default values, validation rules, and filtering.
@@ -103,7 +107,7 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that a
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
-## ➤ Package json
+## ➤ Package json ⚔️
 
 The package.json file is a crucial component of a JavaScript project that provides metadata and configuration information about the project. It is primarily used in Node.js projects and serves as a manifest for the project, specifying its dependencies, scripts, version information, and other important details.
  1. Metadata: The package.json file contains essential metadata about the project, such as the project name, version, description, author, license, repository URL, and other relevant information. This metadata helps identify and provide information about the project.
@@ -184,7 +188,7 @@ To run this project, you will need to add the following environment variables to
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
-## ➤ Conclusion
+## ➤ Conclusion 🤔
 
 The Node.js README Generator simplifies the process of creating a professional README.md file for your Node.js projects. By automating the generation process, it saves you time and effort, ensuring that your project's documentation is consistent, informative, and well-structured. With its interactive CLI, customization options, and Markdown support, the generator empowers you to create README files that effectively communicate the purpose, usage, and contribution guidelines of your project.
 
@@ -201,7 +205,11 @@ The Node.js README Generator simplifies the process of creating a professional R
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
-## Going Forward
+## Authors 📖
+
+CSD
+
+## Going Forward 🔮
 
 to be continued...........
 
@@ -236,7 +244,7 @@ If you have any feedback, please reach out to us at wake@late.com
 
 ![solar](https://github.com/codesleeps/solid-octo-fiesta/assets/125808990/de95cb09-42cb-4ad1-9783-34ade244ae8b)
 
-## ➤ Support 💻 📲 ☎️
+## ➤ Support 💻 📲 ☎
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email codesleep43@gmail.com or join our Slack channel.
 
